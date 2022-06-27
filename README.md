@@ -1,18 +1,20 @@
-### Hi there 👋
+# Hi, my name is Santiago! 👋
 
-i will add more stuff here...
+#### About Me
 
-<!--
-**santiagoziel/santiagoziel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Born in Xalapa, Mexico 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+- Living in Puebla, pue
+- Backend Python Developer 💻
+- Loves MTG 🗃️
+- Mildly Active 🏃‍♂️
+- [My resume](http://santiagotorres.online/curriculum)
 
-Here are some ideas to get you started:
+#### Where to find me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Here 👋
+- [Email ✉️](mailto:work@santiagotorres.online)
+- [My Website 🌍](http://santiagotorres.online)
+
+#### TODO
+
+- [ ] Improve this page a bit
