@@ -16,4 +16,4 @@
 
 #### Besides work currently working on
 
-- [MTG Related CLI](https://github.com/santiagoziel/MTGLandCalculator) 🧙🏼‍♂️ 
+- [MTG Related bot](https://github.com/santiagoziel/MTGLandCalculator) 🧙🏼‍♂️ 
