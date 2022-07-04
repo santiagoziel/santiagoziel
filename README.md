@@ -7,12 +7,12 @@
 - Backend Python Developer 💻
 - Loves MTG 🗃️
 - Mildly Active 🏃‍♂️
-- [My resume](http://santiagotorres.online/curriculum) 🏋️
+- [My resume](https://santiagotorres.online/curriculum) 🏋️
 
 #### Where to find me
 
 - [Email ✉️](mailto:work@santiagotorres.online)
-- [My Website 🌍](http://santiagotorres.online)
+- [My Website 🌍](https://santiagotorres.online)
 
 #### Besides work currently working on
 
