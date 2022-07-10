@@ -14,6 +14,6 @@
 - [Email ✉️](mailto:work@santiagotorres.online)
 - [My Website 🌍](https://santiagotorres.online)
 
-#### Besides work currently working on
+#### Personal projects
 
 - [MTG Related bot](https://github.com/santiagoziel/MTGLandCalculator) 🧙🏼‍♂️ 
