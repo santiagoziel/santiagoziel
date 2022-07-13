@@ -4,9 +4,9 @@
 
 - Born in Xalapa, Mexico 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 - Living in Puebla, Pue 🏠
-- Backend Python Developer 💻
+- Learning to be a backend Developer 💻
 - Loves MTG 🗃️
-- Mildly Active 🏃‍♂️
+- like to dance 🕺
 - [My resume](https://santiagotorres.online/curriculum) 🏋️
 
 #### Where to find me
