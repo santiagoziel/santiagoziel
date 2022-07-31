@@ -17,3 +17,4 @@
 #### Personal projects
 
 - [MTG Related bot](https://github.com/santiagoziel/MTGLandCalculator) 🧙🏼‍♂️ 
+- [Fantasy ASCII simulated world}(https://github.com/AlonsoBear/fantasy_simulation)🌎
