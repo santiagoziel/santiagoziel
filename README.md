@@ -1,20 +1,21 @@
-# Hi, my name is Santiago! 👋
+# Hi there! 👋
+I'm a Python/Typescript Developer based in Mexico, with three years of experience in back-end development. I specialize in using the Flask and Express frameworks to build powerful, reliable web applications, and I have a proven track record of delivering high-quality work for a wide range of clients.
 
-#### About Me
+Some of my notable projects include:
 
-- Born in Xalapa, Mexico 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-- Living in Puebla, Pue 🏠
-- Learning to be a backend Developer 💻
-- Loves MTG 🗃️
-- like to dance 🕺
-- [My resume](https://santiagotorres.online/curriculum) 🏋️
+- Data scraping and automatic report generation using SQL databases
+- Designing and implementing microservice architectures with Rabbitmq
+- Developing web applications on the Cardano Blockchain with the Blockfrost API
+- Publishing APIs and SDKs on npm (both private and public)
+- Deploying containerized services with Docker and Docker Compose
+- Automating releases with GitHub Actions
 
-#### Where to find me
+In my free time, I love playing Magic: The Gathering and dancing. You can find more information about me [on my website](https://santiagotorres.online/) and check out my [resume](https://santiagotorres.online/curriculum) to see a full list of my skills and experience.
 
-- [Email ✉️](mailto:work@santiagotorres.online)
-- [My Website 🌍](https://santiagotorres.online)
+Here are some of my personal projects:
 
-#### Personal projects
+- [Personal TypeScript Utility Package](https://github.com/santiagoziel/service-utils)
+- [MTG Related bot](https://github.com/santiagoziel/MTGLandCalculator) 🧙🏼‍♂️
+- [Fantasy ASCII simulated world](https://github.com/santiagoziel/MTGLandCalculator)🌎
 
-- [MTG Related bot](https://github.com/santiagoziel/MTGLandCalculator) 🧙🏼‍♂️ 
-- [Fantasy ASCII simulated world](https://github.com/AlonsoBear/fantasy_simulation)🌎
+Feel free to reach out to me via [email](mailto:work@santiagotorres.online) if you have any questions or would like to discuss a potential project. I look forward to working with you!
