@@ -6,7 +6,7 @@ Some of my notable projects include:
 - Data scraping and automatic report generation using SQL databases
 - Designing and implementing microservice architectures with Rabbitmq
 - Developing web applications on the Cardano Blockchain with the Blockfrost API
-- Implementation and publishing of APIs with corresponding SDKs to npm public and private registries.
+- Implementation and publishing of APIs with corresponding SDKs to public and private npm registries.
 - Deploying containerized services with Docker and Docker Compose
 - Automating releases with GitHub Actions
 
