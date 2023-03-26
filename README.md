@@ -1,5 +1,5 @@
 # Hi there! 👋
-I'm a Python/Typescript Developer based in Mexico, with three years of experience in back-end development. I specialize in using the Flask and Express frameworks to build powerful, reliable web applications, and I have a proven track record of delivering high-quality work for a wide range of clients.
+I'm a Typescript/Python Developer based in Mexico, with three years of experience in back-end development. I specialize in using the Flask and Express frameworks to build powerful, reliable web applications, and I have a proven track record of delivering high-quality work for a wide range of clients.
 
 Some of my notable projects include:
 
@@ -10,10 +10,11 @@ Some of my notable projects include:
 - Deploying containerized services with Docker and Docker Compose
 - Automating releases with GitHub Actions
 
-In my free time, I love playing Magic: The Gathering and dancing. You can find more information about me [on my website](https://santiagotorres.online/) and check out my [resume](https://santiagotorres.online/curriculum) to see a full list of my skills and experience.
+In my free time, I love playing Magic: The Gathering and dancing. You can find more information about me [on linkedin](https://www.linkedin.com/in/santiagotorresbackdev/) or [on my website](https://santiagotorres.online/) and check out my [resume](https://santiagotorres.online/curriculum) to see a full list of my skills and experience.
 
 Here are some of my personal projects:
 
+- [SummaryBot - Discord bot for summarizing conversations using GPT and the openAI API 🤖](https://github.com/santiagoziel/summaryBot)
 - [Personal TypeScript Utility Package](https://github.com/santiagoziel/service-utils)
 - [MTG Related bot](https://github.com/santiagoziel/MTGLandCalculator) 🧙🏼‍♂️
 - [Fantasy ASCII simulated world](https://github.com/santiagoziel/MTGLandCalculator)🌎
