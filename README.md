@@ -1,4 +1,4 @@
-# Hi there! 👋
+# HI! 👋
 I'm a Typescript/Python Developer based in Mexico, with three years of experience in back-end development. I specialize in using the Flask and Express frameworks to build powerful, reliable web applications, and I have a proven track record of delivering high-quality work for a wide range of clients.
 
 In my free time, I love playing Magic: The Gathering and dancing. You can find more information about me [on linkedin](https://www.linkedin.com/in/santiagotorresbackdev/) or [on my website](https://santiagotorres.online/) and check out my [resume](https://santiagotorres.online/curriculum) to see a full list of my skills and experience.
