@@ -8,6 +8,6 @@ Here are some of my personal projects:
 - [SummaryBot - Discord bot for summarizing conversations using GPT and the openAI API 🤖](https://github.com/santiagoziel/summaryBot)
 - [Personal TypeScript Utility Package](https://github.com/santiagoziel/service-utils)
 - [MTG Related bot](https://github.com/santiagoziel/MTGLandCalculator) 🧙🏼‍♂️
-- [Fantasy ASCII simulated world](https://github.com/santiagoziel/MTGLandCalculator)🌎
+- [Fantasy ASCII simulated world](https://github.com/AlonsoBear/fantasy_simulation)🌎
 
 Feel free to reach out to me via [email](mailto:work@santiagotorres.online) if you have any questions or would like to discuss a potential project. I look forward to working with you!
